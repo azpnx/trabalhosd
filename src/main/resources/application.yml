@@ -1,0 +1,14 @@
+server:
+  port: 8080
+
+api:
+  clima:
+    url: http://api.weatherapi.com/v1/current.json
+  esporte:
+    url: http://api.weatherapi.com/v1/sports.json
+
+key:
+  value: 878fa18213f4457cb11150241220805
+
+app:
+  idioma: pt
